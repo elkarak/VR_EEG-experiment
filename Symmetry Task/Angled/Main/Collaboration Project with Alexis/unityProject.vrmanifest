@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.elenaeegvrproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\Elena Project\\EEG\\Version 1.7 - Testing with eye tracking\\Symmetry Task\\Angled\\Main\\Collaboration Project with Alexis\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Symmetry - Angled - Main [Testing]"
+        }
+      }
+    }
+  ]
+}
